@@ -19,8 +19,7 @@ This Power BI report provides an interactive and data-driven analysis of pizza s
 
 ## 🛠️ Tools & Technologies  
 - **Power BI** – Data visualization and report building  
-- **SQL** – Data extraction and transformation  
-- **Excel** – Data preprocessing and cleaning  
+- **Power Query** – Data preprocessing and cleaning  
 
 ## 🚀 How to Use  
 1. Open the Power BI file (`.pbix`).  
